@@ -1636,6 +1636,7 @@ a {
 .pb_slide_v1 .link-block {
   display: block;
   position: relative;
+  max-width:25em;
   color: #A5E9DB; }
   .pb_slide_v1 .link-block:before {
     position: absolute;
